@@ -14,6 +14,22 @@ form1 control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:DemoSite._Default.btnShowName">
+	<summary>
+btnShowName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DemoSite._Default.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="P:DemoSite.My.MyWebExtension.Computer">
 	<summary>
  Returns information about the host computer.

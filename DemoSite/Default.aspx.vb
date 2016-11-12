@@ -5,4 +5,7 @@
 
     End Sub
 
+    Protected Sub btnShowName_Click(sender As Object, e As EventArgs) Handles btnShowName.Click
+        lblName.Text = "One"
+    End Sub
 End Class
